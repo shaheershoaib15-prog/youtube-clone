@@ -16,5 +16,5 @@ A simple and responsive youtube clone built using HTML and CSS.
 
 ## Author
 BS Computer Engineering Student @ FAST NUCES
-shaheer bin shoaib
+-> shaheer bin shoaib
 
