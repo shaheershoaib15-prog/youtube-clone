@@ -12,7 +12,7 @@ A simple and responsive youtube clone built using HTML and CSS.
 - CSS3
 
 ## Live Demo
-(Coming soon)
+https://shaheershoaib15-prog.github.io/youtube-clone/
 
 ## Author
 BS Computer Engineering Student @ FAST NUCES
